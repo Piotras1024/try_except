@@ -1,0 +1,4 @@
+.idea/*
+_pycache_/ *
+*.bak
+__pycache__/exceptional.cpython-310.pyc
